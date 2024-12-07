@@ -1,6 +1,9 @@
 # fastype
 Terminal Base Typing Game
 ## Instructions
+You need to python installed on your pc.
+
+
 Install the required library if not already installed in your system specially for Windows pc
 
 `
